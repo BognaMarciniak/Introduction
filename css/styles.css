@@ -1,0 +1,144 @@
+a{
+   text-decoration: none;
+   color: #3baaa5;
+   margin: 0 2vw;
+}
+a:hover
+{
+    color: white
+}
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    
+}
+div.top{
+    background-color: #EAFDFC;
+    text-align: center;
+    position: relative;
+    padding-top: 0;
+    height: 100vh;
+    margin-bottom: 5vh;
+    
+}
+div.skill-row{
+    width: 50%;
+    margin: 75px auto 10%;
+    text-align: left;
+}
+div.skill-row-code{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+h1{
+    margin-top: 0;
+    padding-top: 10vh;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 6rem;
+    color: #559cfa;
+}
+h2{
+    font-size: 2rem;
+    color: #559cfa;
+}
+h3{
+    font-size: 1.5rem;
+    color: #559cfa;
+}
+hr{
+    border: dotted #BFEAF5 6px;
+    border-top: none;
+    border-width: 4%;
+    width: 10%;
+    margin: 2% auto;
+}
+img.circle-first{
+    height: 40vh;
+    color: #91D8E4;
+}
+p.first{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 3rem;
+    color: #559cfa;
+}
+p{
+    font-size: 1.5rem;
+    color: #3baaa5;
+}
+.bottom-container{
+    bottom:0;
+    background-color:#BFEAF5;
+    text-align: center;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    height: 7vh;
+}
+.copy{
+    font-size: 0.75rem;
+    bottom:0;
+}
+.circle-code{
+    width: 25%;
+    float: right;
+    margin-left: 5%;
+}
+.circle-eng{
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+}
+.mountains{
+    height: 50vh;
+    position: absolute;
+    bottom:0;
+    left: 25vw;
+}
+.top-cloud{
+    width: 300px;
+    position: absolute;
+    right: 10vw;
+    top:50px;
+}
+.bottom-cloud{
+    width: 300px;
+    position: absolute;
+    left: 10vw;
+    bottom: 50vh;
+}
+.BUTTON_GUN {
+    background: #BFEAF5;
+    background-image: -webkit-linear-gradient(top, #BFEAF5, #91D8E4);
+    background-image: -moz-linear-gradient(top, #BFEAF5, #91D8E4);
+    background-image: -ms-linear-gradient(top, #BFEAF5, #91D8E4);
+    background-image: -o-linear-gradient(top, #BFEAF5, #91D8E4);
+    background-image: -webkit-gradient(to bottom, #BFEAF5, #91D8E4);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 19px;
+    font-weight: 100;
+    padding: 21px;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_GUN:hover {
+    border: solid #BFEAF5 1px;
+    background: #BFEAF5;
+    background-image: -webkit-linear-gradient(top, #BFEAF5, #BFEAF5);
+    background-image: -moz-linear-gradient(top, #BFEAF5, #BFEAF5);
+    background-image: -ms-linear-gradient(top, #BFEAF5, #BFEAF5);
+    background-image: -o-linear-gradient(top, #BFEAF5, #BFEAF5);
+    background-image: -webkit-gradient(to bottom, #BFEAF5, #BFEAF5);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
